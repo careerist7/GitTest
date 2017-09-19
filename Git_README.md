@@ -1,4 +1,4 @@
-# [Git] 實作練習腳本
+# Git
 
 ## 1. 安裝 Git 工具
 
@@ -89,7 +89,13 @@
   git tag -a v1.0
   ```
 
-## 9. 推送版本
+## 9. 建立標籤
+
+  ```
+  ssh-keygen -t rsa
+  ```
+
+## 10. 推送版本
 
   ```
   git remote add origin https://github.com/doggy8088/gitdemo.git
@@ -100,7 +106,7 @@
   git push
   ```
 
-## 10. 拉取版本
+## 11. 拉取版本
 
   ```
   git pull
