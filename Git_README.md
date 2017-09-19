@@ -1,4 +1,4 @@
-# [Git 新手上路 AMA](https://business.facebook.com/will.fans/videos/1806894692673000/) 實作練習腳本
+# [Git] 實作練習腳本
 
 ## 1. 安裝 Git 工具
 
